@@ -1,3 +1,22 @@
+
+#Hierarchy of pi concepts
+
+blind instruction following
+* copy and paste
+
+critical under the hood elements to know right from the begining
+* raspi-config
+* wpa-Supplicant
+* apt-get
+* basic terminal commands
+* 
+
+* terminal
+  * file structure
+ 
+* linux
+  * learning progression means moving forward with incorrect concepts to build our knowledge base. 
+
 ### power buttons
 * [retorpie power button setup pins 5 & 6](https://www.youtube.com/watch?v=4nTuzIY0i3k)
 * [Kevin Darrah, simple circuit](https://www.youtube.com/watch?v=pAVGv7mzmZY)
